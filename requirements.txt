@@ -1,0 +1,6 @@
+Django==3.1
+psycopg2-binary==2.8.6
+python-decouple
+Pillow==8.1
+django-ckeditor
+django-filter
